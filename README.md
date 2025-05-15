@@ -2,7 +2,8 @@
 
 **Ratatouille** — це сучасний, адаптивний та функціональний сайт-візитка, створений спеціально для ресторану. Він допомагає користувачам дізнатися більше про заклад, переглянути меню страв і забронювати столик онлайн.
 
-![Ratatouille Screenshot](screenshot.jpg)
+![Ratatouille Screenshot]![screencapture-ratatouille-2025-05-15-10_40_56](https://github.com/user-attachments/assets/615700dc-4d4d-4f28-a794-15eb00e85826)
+()
 
 ---
 
